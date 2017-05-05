@@ -15,7 +15,7 @@ public class PruebasCollections {
 	public static void main(String args[])
 	{
 		Set<Integer> s = new HashSet();
-		s.add(9);
+		s.add10);
 		s.add(3);
 		
 		System.out.println(s.isEmpty());
